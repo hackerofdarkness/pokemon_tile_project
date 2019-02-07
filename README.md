@@ -36,3 +36,9 @@ To set up the repository, see [INSTALL.md](INSTALL.md).
 [irc]: https://kiwiirc.com/client/irc.freenode.net/?#pret
 [travis]: https://travis-ci.org/pret/pokeemerald
 [travis-badge]: https://travis-ci.org/pret/pokeemerald.svg?branch=master
+
+Credit for the tiles go to:
+Alucus and the Calis Project
+WesleyFG
+Scarf
+CnCNick
